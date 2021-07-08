@@ -1,0 +1,24 @@
+<svg id="Background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="763.163" viewBox="0 0 1920 763.163">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.479" x2="1" y2="0.479" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5355ee"/>
+      <stop offset="1" stop-color="#30b2ea"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Rectangle" d="M0,0H1920V762.454s-75.551,4.512-150.6-9.227c-111.149-20.349-233.007-59.49-399.74-95.044-74.716-15.932-138.42-18.951-207.123-15.932-69.364,3.048-140.78,12.266-227.739,33.9-182.186,45.316-336.9,70.767-433.739,77.08C255.476,769.237,0,711.047,0,711.047Z" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" y1="0.479" x2="1" y2="0.479" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7eb2f2"/>
+      <stop offset="1" stop-color="#78c4f2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0.479" x2="1" y2="0.479" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c0d1f9"/>
+      <stop offset="1" stop-color="#d0ecfa"/>
+    </linearGradient>
+  </defs>
+  <path id="Rectangle-2" data-name="Rectangle" d="M0,0H1920V762.454s-75.551,4.512-150.6-9.227c-111.149-20.349-233.007-59.49-399.74-95.044-74.716-15.932-138.42-18.951-207.123-15.932-69.364,3.048-140.78,12.266-227.739,33.9-182.186,45.316-336.9,70.767-433.739,77.08C255.476,769.237,0,711.047,0,711.047Z" fill="url(#linear-gradient)"/>
+  <g id="Background-2" data-name="Background" clip-path="url(#clip-path)">
+    <path id="Rectangle-3" data-name="Rectangle" d="M0,325.308H1920V59.923s-164.512-47.37-257.219-55.111-182.686-5.4-268.1,1.738C1230.833,20.24,998.938,99.069,911.979,120.686c-182.185,45.29-331.821,85.1-410.918,92.995C231.695,240.573,0,171.525,0,171.525Z" transform="translate(0 539.468)" fill="url(#linear-gradient-3)"/>
+    <path id="Rectangle-4" data-name="Rectangle" d="M0,304.524H1920V61.425s-37.646,3.174-82.255-19.338S1748.554,3.841,1708.51,1.055c-101.3-7.049-180.143,22.4-272.094,53.328-15.157,5.1-100.39,31.009-155.637,38.359C1101.708,116.565,818.653,129,748.8,143.35,616.867,170.461,455.723,95.277,303.215,59.179,246.264,45.7,206.035,41.322,165.364,39.8,81.96,36.671,0,71.38,0,71.38Z" transform="translate(0 580.132)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
