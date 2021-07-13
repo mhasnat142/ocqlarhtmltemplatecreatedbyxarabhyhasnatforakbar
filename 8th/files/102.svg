@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220.296" height="220.296" viewBox="0 0 220.296 220.296">
+  <g id="Group_5123" data-name="Group 5123" transform="translate(-125.199 -808.985)">
+    <g id="Group_4914" data-name="Group 4914" transform="translate(125.199 808.985)">
+      <g id="Group_4911" data-name="Group 4911">
+        <circle id="Ellipse_1845" data-name="Ellipse 1845" cx="77.886" cy="77.886" r="77.886" transform="translate(0 110.148) rotate(-45)" fill="#ffd05d"/>
+      </g>
+      <g id="Group_4912" data-name="Group 4912" transform="translate(35.377 57.854)">
+        <path id="Path_14800" data-name="Path 14800" d="M288.786,859.648a77.9,77.9,0,0,1-132.607,73.958,77.893,77.893,0,1,0,132.607-73.958Z" transform="translate(-156.179 -859.648)" fill="#fdc453"/>
+      </g>
+      <g id="Group_4913" data-name="Group 4913" transform="translate(37.413 37.882)">
+        <path id="Path_14801" data-name="Path 14801" d="M163.81,903.338a72.312,72.312,0,0,1,136.8-5.752,72.318,72.318,0,1,0-137.745,43.04A71.976,71.976,0,0,1,163.81,903.338Z" transform="translate(-157.962 -842.159)" fill="#ffd77f"/>
+      </g>
+    </g>
+    <g id="Group_4918" data-name="Group 4918" transform="translate(206.997 883.492)">
+      <g id="Group_4917" data-name="Group 4917">
+        <g id="Group_4915" data-name="Group 4915">
+          <path id="Path_14802" data-name="Path 14802" d="M208.483,885.272c-1.506,5.126-5.192,8.556-8.233,7.664s-4.286-5.774-2.779-10.9,5.192-8.557,8.233-7.663S209.988,880.146,208.483,885.272Z" transform="translate(-196.831 -874.232)" fill="#303030"/>
+        </g>
+        <g id="Group_4916" data-name="Group 4916" transform="translate(52.974 14.7)">
+          <ellipse id="Ellipse_1846" data-name="Ellipse 1846" cx="9.673" cy="5.739" rx="9.673" ry="5.739" transform="translate(0 18.562) rotate(-73.628)" fill="#303030"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4919" data-name="Group 4919" transform="translate(208.972 913.256)">
+      <ellipse id="Ellipse_1847" data-name="Ellipse 1847" cx="23.844" cy="14.065" rx="23.844" ry="14.065" transform="translate(0 45.754) rotate(-73.627)" fill="#695342"/>
+      <path id="Path_14803" data-name="Path 14803" d="M225.907,938.336c-8.256-8.3-17.173-7.59-22.712-5.881.681,6.687,3.6,11.8,8.2,13.15C216.188,947.013,221.638,944.012,225.907,938.336Z" transform="translate(-197.903 -895.887)" fill="#f06669"/>
+    </g>
+  </g>
+</svg>
